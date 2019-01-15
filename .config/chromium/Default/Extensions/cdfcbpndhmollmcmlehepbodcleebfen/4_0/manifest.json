@@ -1,0 +1,14 @@
+{
+   "content_scripts": [ {
+      "js": [ "vim-scroll.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "icons": {
+      "128": "jk.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA831ERTvE3M7BDNnbWM8HAY+KjEVn1QD0qpt5ePOFX2YQfYGb2FodDah3GhrEo2O9uWefuResUkfFL3ESaO0OZr+BEsIyGANJQYULqOLygO28FlMSvNg8Cl7zuTKTQPz973wbFcqX5QfKUaWhMXJ2s4vWJmxj2FUVAK2N5qolcbPzk5F3Gr5mOKxQGrCithyd0hWZ9lTsFALYGGzFq/JjJmXxrbMN/XrtVD0xnDfTTI4DI1w6LHH30S+Ro4JriM6jbkax3wHkVoZms+VFZCj1PDKZ/iHP0sny5fn1uAbLmHfuf9vNmnZnsvm/N48xMIjfhk/q46ZP7CAUFf2LXEXncQIDAQAB",
+   "manifest_version": 2,
+   "name": "vim-scroll",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4"
+}

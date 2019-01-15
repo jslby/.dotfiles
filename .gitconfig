@@ -1,0 +1,5 @@
+[user]
+	email = me@jslby.ru
+	name = jslby
+[alias]
+  deploy = subtree push --prefix dist origin gh-pages
